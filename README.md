@@ -1,5 +1,5 @@
 # miniature-spork
-neurobio project
+## Neurobio140 Project
 
 Artificial intelligence (AI) image creation has recently become a mainstream way for amateurs to create artworks and images online with just a sentence or two of instruction (Roose, 2022). The technology is fascinating but controversial, as it raises concerns about originality and the ethics of generating content without the direct influence of human creativity. As AI models become increasingly sophisticated, the line has blurred between human and machine-created art, leading to lawsuits over intellectual property, questions about the future of creative professions, and a potential new definition of art (Feldman, 2023). 
 
